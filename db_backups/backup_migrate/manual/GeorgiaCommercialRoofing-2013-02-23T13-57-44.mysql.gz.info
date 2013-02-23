@@ -1,0 +1,8 @@
+filename = "GeorgiaCommercialRoofing-2013-02-23T13-57-44"
+description = ""
+datestamp = "1361645865"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.20"
+sites[0][name] = "Georgia Commercial Roofing"
+sites[0][url] = "http://default/"

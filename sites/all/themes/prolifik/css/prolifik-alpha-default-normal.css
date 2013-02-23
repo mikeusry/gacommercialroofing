@@ -1,5 +1,6 @@
 /* @override 
-	http://commercial.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mfdvo0 */
+	http://commercial.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mfdvo0
+	http://commercial.roofingintelligence.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mhk6io */
 
 /* This file will hold styles that are loaded using the same media query as the normal grid. */
 
@@ -15,4 +16,22 @@
   top: 35px;
   width: 300px;
   z-index: 1;
+}
+
+#region-menu nav > ul.menu > li > a {
+  display: block;
+  padding: 5px 15px;
+  text-decoration: none;
+  text-shadow: 0 2px 2px rgba(0,0,0,.5);
+}
+
+#region-menu nav > ul.menu > li:hover > a,
+#region-menu nav > ul.menu > li.hover > a {
+	background-color: rgb(160, 205, 79);
+	border-radius: 7px;
+}
+
+#region-menu nav.navigation > ul.menu > li > a {
+  font-size: 1.5em;
+  line-height: 1em;
 }

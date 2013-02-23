@@ -28,3 +28,15 @@
 }
 #region-menu nav.navigation ul.menu li.leaf {display: block; float: left;
 }
+
+#region-footer-first {
+	text-align: left;
+}
+
+#block-block-1 h1 {
+	text-align: left;
+}
+
+nav.navigation select.tinynav {
+	display: none;
+}
